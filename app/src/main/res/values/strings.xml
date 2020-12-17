@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Your Fourtune</string>
+    <string name="result_text" />
+    <string name="result_hint">結果がここに表示される</string>
+</resources>
